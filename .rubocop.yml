@@ -41,3 +41,7 @@ Style/StringLiterals:
 
 Style/ZeroLengthPredicate:
   Enabled: false
+
+Metrics/ParameterLists:
+  Max: 8
+  MaxOptionalParameters: 6
